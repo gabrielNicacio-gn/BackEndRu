@@ -1,7 +1,6 @@
 # Diretórios
 bin/
 obj/
-packages/
 logs/
 test/output/
 .vs/
@@ -17,6 +16,4 @@ nuget/
 appsettings.json
 secrets.json
 
-# Outros arquivos que você deseja ignorar
-# ...
 
