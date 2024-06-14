@@ -1,0 +1,22 @@
+# Diretórios
+bin/
+obj/
+packages/
+logs/
+test/output/
+.vs/
+nuget/
+
+# Arquivos
+.sln
+*.csproj.user
+*.assemblyinfo.cs
+*.db
+*.psd1
+*.user
+appsettings.json
+secrets.json
+
+# Outros arquivos que você deseja ignorar
+# ...
+
